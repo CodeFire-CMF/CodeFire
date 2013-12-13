@@ -1,0 +1,6 @@
+# OS Dust
+.DS_Store
+Thumbs.db
+
+# Laravel environment
+codefire/app/config/local
